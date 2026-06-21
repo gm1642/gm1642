@@ -1,7 +1,7 @@
 <!-- QUOTE:START -->
-<p align="center">
-  <img src="https://readme-quotes-api.vercel.app/api/quote" alt="Dynamic Embedded Quote">
-</p>
+  <p align="center">
+    <img src="https://readme-quotes-api.vercel.app/api/quote" alt="Dynamic Embedded Quote">
+  </p>
 <!-- QUOTE:END -->
 # 💫 About Me:
 I build embedded systems that think at the edge — and I make them survive on a coin-cell budget.<br><br>B.Tech Electronics Engineering @ AMU (Top 5/67) <br>PhD Scholar, Electrical & Computer Engineering, Michigan State University (Fall 2026), focused on **low-power embedded systems & Edge AI**.<br><br>**What I actually ship:**<br>- 🔋 Designed a power-optimization algorithm on **ESP32-S3** that **4x'd battery life** in a real-time biomechanical sensing device (smart footwear, deployed for clinical mobility screening at Taipei Medical University)<br>- 🧠 Deployed **YOLOv8 on Jetson Nano** for real-time inference over live RTSP streams, solving memory-constrained deployment via custom swap configuration<br>- 📡 Built a sub-150ms motion-to-photon **AR telerobotics pipeline** (ESP32-S3 ↔ Unity) using PSRAM double-buffering and non-blocking sockets — no off-the-shelf streaming SDKs<br>- 🩺 Fused deep learning (ResNet1D) with LLM-derived features for sepsis risk prediction on MIMIC-IV, landing a **12.9% F1 lift** — IEEE-published<br><br>**Stack:** ESP32-S3 / STM32 · I2C/SPI/UART · Sensor Fusion · C/Embedded C · PyTorch · OpenCV · Jetson/JetPack · Docker <br><br>**Why edge AI:** the constraint *is* the problem worth solving — I like the version of ML that has to survive a power budget, a thermal envelope, and real silicon, not just a GPU cluster.
