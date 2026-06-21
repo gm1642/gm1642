@@ -10,7 +10,6 @@ I build embedded systems that think at the edge — and I make them survive on a
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=gm1642&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gm1642&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
