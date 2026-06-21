@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I build embedded systems that think at the edge — and I make them survive on a coin-cell budget.<br><br>B.Tech Electronics Engineering @ AMU (Top 5/67) <br>PhD Scholar, Electrical & Computer Engineering, Michigan State University (Fall 2026), focused on **low-power embedded systems & Edge AI**.<br><br>**What I actually ship:**<br>- 🔋 Designed a power-optimization algorithm on **ESP32-S3** that **4x'd battery life** in a real-time biomechanical sensing device (smart footwear, deployed for clinical mobility screening at Taipei Medical University)<br>- 🧠 Deployed **YOLOv8 on Jetson Nano** for real-time inference over live RTSP streams, solving memory-constrained deployment via custom swap configuration<br>- 📡 Built a sub-150ms motion-to-photon **AR telerobotics pipeline** (ESP32-S3 ↔ Unity) using PSRAM double-buffering and non-blocking sockets — no off-the-shelf streaming SDKs<br>- 🩺 Fused deep learning (ResNet1D) with LLM-derived features for sepsis risk prediction on MIMIC-IV, landing a **12.9% F1 lift** — IEEE-published<br><br>**Stack:** ESP32-S3 / STM32 · I2C/SPI/UART · Sensor Fusion · C/Embedded C · PyTorch · OpenCV · Jetson/JetPack · Docker <br><br>**Why edge AI:** the constraint *is* the problem worth solving — I like the version of ML that has to survive a power budget, a thermal envelope, and real silicon, not just a GPU cluster.
 
-<!--
-**gm1642/gm1642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samkhan705279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samkhan705279@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gm1642&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gm1642&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gm1642&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
